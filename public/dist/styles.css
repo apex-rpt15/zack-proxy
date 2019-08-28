@@ -18,6 +18,11 @@
   justify-content: center;
 }
 
+#trackPlayer {
+  width: 1340px;
+  z-index: 1;
+}
+
 #al {
   z-index: 1;
   zoom: 49.2%;
