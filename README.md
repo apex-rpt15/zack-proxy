@@ -38,4 +38,6 @@ From within the root directory:
 ```
 $ npm install
 ```
+## Author
 
+- Zack Miller
